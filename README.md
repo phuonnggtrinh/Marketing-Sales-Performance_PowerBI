@@ -26,7 +26,7 @@ Develop the dashboard in Power BI, focusing on simplicity and clarity for decisi
 
 ### **Test:** 
 Share the dashboard with stakeholders and gather feedback to refine the visualizations.
-## III.. Visualization
+## III. Visualization
 The Power BI dashboard provides an overview of the company’s performance, including:
 ### Overview
 <img width="883" alt="Screenshot 2024-10-20 at 12 54 48" src="https://github.com/user-attachments/assets/80f40e88-70b7-4fe9-8134-7e86a20be1a6">
@@ -41,6 +41,39 @@ The Power BI dashboard provides an overview of the company’s performance, incl
 ### Customers
 <img width="884" alt="Screenshot 2024-10-20 at 13 02 30" src="https://github.com/user-attachments/assets/f98dce68-ac3a-4865-bfac-a2f35089050b">
 
+## IV. Key Insights
+1. The **top five markets** in terms of performance are APAC, LATAM, EU, US, and EMEA.
+2. The **Standard class** is the most frequently used shipping method across all orders.
+3. The **United States** leads in the number of orders, standing out as the country with the highest order volume.
+4. **Sales and profits** follow a clear trend, with the **highest figures** observed in Q4 **(the end of the year)** and the **lowest** in Q1 **(the beginning of the year)**.
+5. In terms of market distribution, APAC, LATAM, EU, US, and EMEA are home to our most active customer bases. Additionally, the average cart size is largest in APAC, followed by EU, US, LATAM, and Africa.
+6. **Office Supplies** is the leading category in terms of customer orders.
+7. **Profit Breakdown:**
+- Technology emerges as the most profitable product category.
+- The Consumer segment is the most profitable customer segment.
+- Among the markets, **APAC** delivers the highest profits (approximately $0.44M), and within this, **Central EU** stands out as the most profitable market region.
+9. **Return on Sales (ROS) insights:**
+- The Technology and Office Supplies categories show the highest ROS.
+- Similarly, the Consumer segment shows the strongest ROS performance.
+- **Canada** is the market with the **highest ROS** among all regions.
+
+## V.Recommandations
+### 1. Product Diversification
+Expand popular products like Furniture and Office Supplies in APAC, Canada, and LATAM.
+Offer premium products in the EU and EMEA, especially in the Technology category.
+### 2. Shipping Optimization
+Provide an upgrade offer to Express Shipping for large orders.
+Partner with domestic shipping companies in the US and EU to reduce costs and increase logistics efficiency.
+### 3. Seasonal Promotion Enhancement
+Intensify marketing campaigns in Q4, leveraging major holidays like Black Friday and Christmas.
+Experiment with stimulus programs in Q1 to boost sales during the low season.
+### 4. Customer Analytics
+Build a loyalty program for Consumer and Corporate segments to increase customer retention.
+Create exclusive offers and customer care initiatives in the US and LATAM.
+### 5. New Market Penetration
+Test small marketing campaigns in Africa and Oceania APAC before scaling up.
+### 6. Online Sales Development
+Invest in e-commerce and optimize the online shopping experience in the US, EU, and APAC to increase conversion rates.
 
 
 
