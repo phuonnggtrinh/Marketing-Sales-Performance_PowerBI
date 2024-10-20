@@ -4,6 +4,7 @@ This project involves analyzing sales data from a company called Superstore. The
 - **Orders:** Contains transaction details.
 - **People:** Includes information about sales representatives by region.
 - **Returns:** Tracks transactions that were returned.
+
 The goal is to create a Power BI dashboard that gives senior management insights into the company’s business performance. This will help them develop strategies for market expansion and identify key growth products.
 ## II. Design Thinking Method
 To better understand and solve the business problem, I followed the Design Thinking approach:
