@@ -28,36 +28,39 @@ Develop the dashboard in Power BI, focusing on simplicity and clarity for decisi
 Share the dashboard with stakeholders and gather feedback to refine the visualizations.
 ## III. Visualization
 The Power BI dashboard provides an overview of the company’s performance, including:
-### Overview
+### 1. Overview
 <img width="883" alt="Screenshot 2024-10-20 at 12 54 48" src="https://github.com/user-attachments/assets/80f40e88-70b7-4fe9-8134-7e86a20be1a6">
 
+- The **top five markets** in terms of performance are APAC, LATAM, EU, US, and EMEA.
+- The **Standard class** is the most frequently used shipping method across all orders.
+- The **United States** leads in the number of orders, standing out as the country with the highest order volume.
+- **Sales and profits** follow a clear trend, with the **highest figures** observed in Q4 **(the end of the year)** and the **lowest** in Q1 **(the beginning of the year)**.
+- In terms of market distribution, APAC, LATAM, EU, US, and EMEA are home to our most active customer bases. Additionally, the average cart size is largest in APAC, followed by EU, US, LATAM, and Africa.
+- **Office Supplies** is the leading category in terms of customer orders.
 ### Profit
 <img width="890" alt="Screenshot 2024-10-20 at 12 55 19" src="https://github.com/user-attachments/assets/0556f9cb-1d4d-4925-aaf8-5dd58d8d471b">
 <img width="887" alt="Screenshot 2024-10-20 at 12 56 18" src="https://github.com/user-attachments/assets/8c3bdd85-95f5-4430-8a99-f28797658873">
 
+  **Profit Breakdown:**
+- Technology emerges as the most profitable product category.
+- The Consumer segment is the most profitable customer segment.
+- Among the markets, **APAC** delivers the highest profits (approximately $0.44M), and within this, **Central EU** stands out as the most profitable market region.
+
+**Return on Sales (ROS) insights:**
+- The Technology and Office Supplies categories show the highest ROS.
+- Similarly, the Consumer segment shows the strongest ROS performance.
+- **Canada** is the market with the **highest ROS** among all regions.
 ### Products
 <img width="890" alt="Screenshot 2024-10-20 at 12 57 02" src="https://github.com/user-attachments/assets/1531c1ea-de9e-4acb-8e9a-9d62e770714e">
 
 ### Customers
 <img width="884" alt="Screenshot 2024-10-20 at 13 02 30" src="https://github.com/user-attachments/assets/f98dce68-ac3a-4865-bfac-a2f35089050b">
 
-## IV. Key Insights
-1. The **top five markets** in terms of performance are APAC, LATAM, EU, US, and EMEA.
-2. The **Standard class** is the most frequently used shipping method across all orders.
-3. The **United States** leads in the number of orders, standing out as the country with the highest order volume.
-4. **Sales and profits** follow a clear trend, with the **highest figures** observed in Q4 **(the end of the year)** and the **lowest** in Q1 **(the beginning of the year)**.
-5. In terms of market distribution, APAC, LATAM, EU, US, and EMEA are home to our most active customer bases. Additionally, the average cart size is largest in APAC, followed by EU, US, LATAM, and Africa.
-6. **Office Supplies** is the leading category in terms of customer orders.
-7. **Profit Breakdown:**
-- Technology emerges as the most profitable product category.
-- The Consumer segment is the most profitable customer segment.
-- Among the markets, **APAC** delivers the highest profits (approximately $0.44M), and within this, **Central EU** stands out as the most profitable market region.
-9. **Return on Sales (ROS) insights:**
-- The Technology and Office Supplies categories show the highest ROS.
-- Similarly, the Consumer segment shows the strongest ROS performance.
-- **Canada** is the market with the **highest ROS** among all regions.
 
-## V.Recommandations
+
+
+
+## IV.Recommandations
 ### 1. Product Diversification
 Expand popular products like Furniture and Office Supplies in APAC, Canada, and LATAM.
 Offer premium products in the EU and EMEA, especially in the Technology category.
