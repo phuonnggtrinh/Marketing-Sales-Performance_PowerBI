@@ -1,4 +1,4 @@
-# Sales-Performance_Power-BI
+# Marketing-Sales-Performance_Power-BI
 ## I. Introduction
 This project involves analyzing sales data from a company called Superstore. The dataset consists of three tables:
 - **Orders:** Contains transaction details.
